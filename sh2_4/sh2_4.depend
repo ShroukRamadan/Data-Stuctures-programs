@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1576425371 source:d:\projects\ds\sh2_4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"stack1.h"
+
+1576425610 d:\projects\ds\sh2_4\stack1.h
+
